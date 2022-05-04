@@ -1,0 +1,1 @@
+- [Newcomer's Manual(https://rescript-lang.org/docs/manual/latest/newcomer-examples)
